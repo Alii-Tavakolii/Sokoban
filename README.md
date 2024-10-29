@@ -9,11 +9,11 @@ This project implements a Python-based solution for the Sokoban game using propo
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Alii-Tavakolii/Sokoban.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd Sokoban
    ```
 3. Install the dependencies:
    ```bash
