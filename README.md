@@ -5,6 +5,7 @@ This project implements a Python-based solution for the Sokoban game using propo
 
 - It translates the game conditions into a number of logical propositions, then tries to find a model for this propositions and then decode the model into a solution for the game.
 
+![Alt Text](Sokoban_ani.gif)
 
 ## Installation
 1. Clone the repository:
